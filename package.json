@@ -1,0 +1,9 @@
+{
+  "name": "mylab1",
+  "version": "0.0.0",
+  "description": "Mylab1",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
